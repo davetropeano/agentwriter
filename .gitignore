@@ -1,0 +1,7 @@
+__pycache__
+codex.txt
+*.zip
+venv
+nc-codex
+.vscode
+scene_briefs.md

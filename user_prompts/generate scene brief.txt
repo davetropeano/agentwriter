@@ -1,0 +1,22 @@
+Refer to the Scene List. Using the information from the Hook, Pitch, Premise, Locations, Characters, and Scene List, please make a Scene Brief for Scene %%SCENE%% and only Scene %%SCENE%%.
+
+Use this format:
+
+Setting:
+
+Date:
+
+Time of Day:
+
+Characters:
+
+\- Name: (Characterization)
+
+Main Conflict:
+
+Scene Arc:
+
+Cliffhanger:
+
+List of Scene Beats:
+
