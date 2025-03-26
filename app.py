@@ -1,7 +1,6 @@
 import argparse
 from openai import OpenAI
 
-APIKEY = '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'
 chat_history = []  # This is managed by your application, outside of the LLM
 
 def generate_response(model, system_prompt, user_message, chat_history):
