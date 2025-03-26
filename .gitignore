@@ -5,3 +5,4 @@ venv
 nc-codex
 .vscode
 scene_briefs.md
+dotenv
